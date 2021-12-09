@@ -1,0 +1,4 @@
+/* ~/CSS/Pages/Widgets/VerifyCodeModal.css */
+.verify-code-body .shield-img{background-repeat:no-repeat;background-size:240px 140px;background-position-x:50%;height:140px;margin-bottom:6px;}.verify-code-body .sms-img{background-image:url("/images/Accounts/shield-sms.png");}.verify-code-body .email-img{background-image:url("/images/Accounts/shield-email.png");}.verify-code-body .verification-code-input{margin-top:12px;margin-bottom:0;width:100%;}.verify-code-body .code-error{margin-top:2px;height:16px;}.resend-code{margin-top:12px;cursor:pointer;display:inline-block;}
+/* ~/CSS/Pages/Widgets/FunCaptchaModal.css */
+.funcaptcha-modal-body{margin:0 auto;display:block;width:303px;}
